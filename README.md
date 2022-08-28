@@ -1,4 +1,6 @@
-Welcome to your new dbt project!
+# Learnings and assignment from course ["The Complete dbt (Data Build Tool) Bootcamp: Zero to Hero"](https://www.udemy.com/course/complete-dbt-data-build-tool-bootcamp-zero-to-hero-learn-dbt/)
+
+Welcome to your new dbt project! Learn Analytics Engineering with this dbt™ course covering theory & practice through a real-world Airbnb use case.
 
 ### Using the starter project
 
